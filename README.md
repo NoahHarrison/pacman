@@ -1,4 +1,4 @@
-# PacMen 
+# PacMan 
 
 This project demonstrates the canvas-detection feature while designing games, like PacMan.
 
